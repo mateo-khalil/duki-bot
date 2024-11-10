@@ -24,4 +24,4 @@ jobs:
         run: npm install
 
       - name: Run Puppeteer script
-        run: tsx duki-bot.ts
+        run: npx tsx duki-bot.ts
